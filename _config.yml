@@ -1,0 +1,58 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: abc.. to xyz
+layout_spectrum: 0.5511500167194754
+typography_spectrum: 0.3405344623606652
+color:
+  brandStrength: 0.914661668939516
+  lightness: 0.37008494697511196
+  saturation: 0.6391875396948308
+  rhythmicContrast: 0.4345416419673711
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca830982-18a4-4399-a248-65f2a751618c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca830982-18a4-4399-a248-65f2a751618c.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: social media
+description: '"but first... let me take a selfie.."'
+purpose:
+  - type: external
+    url: 'https://abc-xyz.us'
+    label: abc.. to xyz
+url: 'https://social.abc-xyz.us/'
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c87c3d0b-dc93-470a-9baf-dca2bbd12fe7.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e688b6bd-ed59-4f07-8c07-7e9e2dedc100.png
