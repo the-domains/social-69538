@@ -4,8 +4,8 @@ description: >-
   At the end of this post, you’ll see that we have the facebook comments box
   embedded into our grid site.. You can get the code for the plugin here, but
   once you have it you can basically reuse it again and again on your sites..
-dateModified: '2017-08-31T20:37:32.786Z'
-datePublished: '2017-08-31T20:37:33.333Z'
+dateModified: '2017-08-31T20:37:43.312Z'
+datePublished: '2017-08-31T20:37:43.910Z'
 title: lets start with facebook..
 author: []
 publisher: {}
