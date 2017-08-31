@@ -4,8 +4,8 @@ description: >-
   "A lot of people use social media to share mundane things or for
   self-glorification. I try to use it to share interesting things with people."
   ~ Ashton Kutcher
-dateModified: '2017-08-31T12:36:11.416Z'
-datePublished: '2017-08-31T12:36:11.548Z'
+dateModified: '2017-08-31T12:37:50.784Z'
+datePublished: '2017-08-31T12:37:50.959Z'
 title: ''
 author: []
 publisher: {}
