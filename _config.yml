@@ -1,3 +1,16 @@
+layout_spectrum: 0.5218726034564806
+typography_spectrum: 0.19789752705852584
+color:
+  brandStrength: 0.9102587974039229
+  lightness: 0.3736185366046237
+  saturation: 0.6351093244450259
+  rhythmicContrast: 0.4302201060017589
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: abc.. to xyz
-layout_spectrum: 0.5511500167194754
-typography_spectrum: 0.3405344623606652
-color:
-  brandStrength: 0.914661668939516
-  lightness: 0.37008494697511196
-  saturation: 0.6391875396948308
-  rhythmicContrast: 0.4345416419673711
-  brandColors:
-    - '#F4F2ED'
-    - '#FBF9F1'
-    - '#FDFDF9'
-    - '#F0ECE8'
-    - '#FFFFFF'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
