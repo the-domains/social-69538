@@ -4,15 +4,29 @@
         <description><![CDATA[social media]]></description>
         <link>http://social.abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Aug 2017 20:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2017 20:39:03 GMT</lastBuildDate>
         <atom:link href="http://social.abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 31 Aug 2017 20:38:43 GMT</pubDate>
+        <pubDate>Thu, 31 Aug 2017 20:38:44 GMT</pubDate>
         <item>
             <title><![CDATA[social media mix..]]></title>
             <description><![CDATA[<h1>social media mix..</h1>,<p>So with the world we live in, we bet you have the following accounts :</p>,<ul><li>twitter</li><li>facebook</li><li>instagram</li></ul>,<p>..and thats just for the average user. For sites promoting a brand, there’ll be youtube, specific facebook pages, pinterest, slack and who knows what other social identities out there.</p>,<p>We’re going to want to integrate them too into our grid site too, so following are various ways and means to get your social presence added to the grid.</p>,<p>..and in the meantime.. we need to go photo our pasta dish.. </p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77393282-a164-4e72-a9be-4073653d749f.jpg">]]></description>
             <link>http://social.abc-xyz.us/social-media-mix/index.html</link>
             <guid isPermaLink="false">2891b18a-a33b-4f63-95c8-7f915644e51f</guid>
             <pubDate>Wed, 30 Aug 2017 19:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[like facebook ?]]></title>
+            <description><![CDATA[<h1>like facebook ?</h1>,<p>Similarly.. why not use the facebook like button next to your posts ? Again we head back to the <a href="https://developers.facebook.com/docs/plugins/like-button" title="">developer</a> section to get the next set of code.</p>,<p>It looks very similar to the comments set up :</p>,<pre><code>&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &quot;//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.10&quot;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, &apos;script&apos;, &apos;facebook-jssdk&apos;));&lt;/script&gt;</code></pre>,<p>and..</p>,<pre><code>&lt;div class=&quot;fb-like&quot; data-href=&quot;https://social.abc-xyz.us&quot; data-layout=&quot;button_count&quot; data-action=&quot;like&quot; data-size=&quot;large&quot; data-show-faces=&quot;true&quot; data-share=&quot;true&quot;&gt;&lt;/div&gt;</code></pre>,<p>The same rules apply as we used with the comments box, this time we can make the embedded html window a lot shorter, set it to 30.</p>,<p>If this was useful… give us the 👍 !</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUcFuwjAMvfMVUSeNVqIp7Li2HCpN0y6cdpsmlCYupJQExS4Dpv37XNZt3Oznp_fs58LYo7CmjJo6Dd5TtCwyhpaTAnWwB1rGTe80We9iMxM4Y24iPidCHFUQLfdNi6IURm6AnjrYgyOszq9qs1J7iDF5m7_nzLaNiG851fnFxCyViADUBzdwRiEdQBGMPFbIeSCt4Zk1PzSJQXMbZZn2zoEm2SgNtfc76YAycOvnKkOzky3enZp635WL-yME5CPK44NczKNBhxeXBxXYZOUNSOsQAlXQ-ADxeFiST75i43U_rDIT059Iplz9GqYtstE0SfIiGwObFEOkulOI11Q7u4NIGEUq3QZoymhLdMDHLEOvreqkqnV6Ol9kjyOrU2ffUxnVPZF3a-17R-NIXT9RRjeaaC_AgAqbP2TrP9JhQfan0P_DfOyIjE_-BjkWqh8" height="30"></iframe>]]></description>
+            <link>http://social.abc-xyz.us/like-facebook/index.html</link>
+            <guid isPermaLink="false">cb07f01b-d137-45ee-9dde-379c73c13f0e</guid>
+            <pubDate>Thu, 31 Aug 2017 14:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[lets start with facebook..]]></title>
@@ -35,20 +49,6 @@
             <link>http://social.abc-xyz.us/lets-start-with-facebook/index.html</link>
             <guid isPermaLink="false">3b7e4d66-ea9d-4edf-b720-856884da647f</guid>
             <pubDate>Thu, 31 Aug 2017 12:34:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[like facebook ?]]></title>
-            <description><![CDATA[<h1>like facebook ?</h1>,<p>Similarly.. why not use the facebook like button next to your posts ? Again we head back to the <a href="https://developers.facebook.com/docs/plugins/like-button" title="">developer</a> section to get the next set of code.</p>,<p>It looks very similar to the comments set up :</p>,<pre><code>&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
-&lt;script&gt;(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = &quot;//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.10&quot;;
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, &apos;script&apos;, &apos;facebook-jssdk&apos;));&lt;/script&gt;</code></pre>,<p>and..</p>,<pre><code>&lt;div class=&quot;fb-like&quot; data-href=&quot;https://social.abc-xyz.us&quot; data-layout=&quot;button_count&quot; data-action=&quot;like&quot; data-size=&quot;large&quot; data-show-faces=&quot;true&quot; data-share=&quot;true&quot;&gt;&lt;/div&gt;</code></pre>,<p>The same rules apply as we used with the comments box, this time we can make the embedded html window a lot shorter, set it to 30.</p>,<p>If this was useful… give us the 👍 !</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUcFuwjAMvfMVUSeNVqIp7Li2HCpN0y6cdpsmlCYupJQExS4Dpv37XNZt3Oznp_fs58LYo7CmjJo6Dd5TtCwyhpaTAnWwB1rGTe80We9iMxM4Y24iPidCHFUQLfdNi6IURm6AnjrYgyOszq9qs1J7iDF5m7_nzLaNiG851fnFxCyViADUBzdwRiEdQBGMPFbIeSCt4Zk1PzSJQXMbZZn2zoEm2SgNtfc76YAycOvnKkOzky3enZp635WL-yME5CPK44NczKNBhxeXBxXYZOUNSOsQAlXQ-ADxeFiST75i43U_rDIT059Iplz9GqYtstE0SfIiGwObFEOkulOI11Q7u4NIGEUq3QZoymhLdMDHLEOvreqkqnV6Ol9kjyOrU2ffUxnVPZF3a-17R-NIXT9RRjeaaC_AgAqbP2TrP9JhQfan0P_DfOyIjE_-BjkWqh8" height="30"></iframe>]]></description>
-            <link>http://social.abc-xyz.us/like-facebook/index.html</link>
-            <guid isPermaLink="false">cb07f01b-d137-45ee-9dde-379c73c13f0e</guid>
-            <pubDate>Thu, 31 Aug 2017 14:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
