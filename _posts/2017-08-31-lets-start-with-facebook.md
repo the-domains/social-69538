@@ -4,16 +4,16 @@ description: >-
   At the end of this post, you’ll see that we have the facebook comments box
   embedded into our grid site.. You can get the code for the plugin here, but
   once you have it you can basically reuse it again and again on your sites..
-dateModified: '2017-08-31T12:34:34.850Z'
-datePublished: '2017-08-31T12:34:35.539Z'
+dateModified: '2017-08-31T12:36:11.416Z'
+datePublished: '2017-08-31T12:36:11.547Z'
 title: lets start with facebook..
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-31-lets-start-with-facebook.md
 starred: false
 datePublishedOriginal: '2017-08-31T12:34:35.539Z'
-sourcePath: _posts/2017-08-31-lets-start-with-facebook.md
 url: lets-start-with-facebook/index.html
 _type: Article
 
@@ -45,7 +45,7 @@ On the single line of code, facebook wanted to know in pixels how wide the plugi
 
 Also note the data-href. It's ok for the first comments box on a page, but if you add a second comments box, you need to change the url. I normally just change it to the posts url. Otherwise we'll end up just replicating the same comments through out the site on every comments box we have. ie they won't be unique. Lastly the size of the comments area is upto you, but we'ed suggest setting the embedded window to about 400\.
 
-So here is the actual code we pasted in the embedded html window, and the result below.
+So here is the actual code we pasted in the embedded html window, and the result below. Leave a comment and let us know what you think.. 😊
 
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
