@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Similarly.. why not use the facebook like button next to your posts ? Again we
   head back to the developer section to get the next set of code.
-dateModified: '2017-08-31T20:38:42.823Z'
-datePublished: '2017-08-31T20:38:43.253Z'
+dateModified: '2017-09-01T13:29:53.214Z'
+datePublished: '2017-09-01T13:29:53.805Z'
 title: like facebook ?
 author: []
 publisher: {}
