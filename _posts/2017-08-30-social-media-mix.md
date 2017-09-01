@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'So with the world we live in, we bet you have the following accounts :'
-dateModified: '2017-09-01T13:49:08.891Z'
-datePublished: '2017-09-01T13:49:09.544Z'
+dateModified: '2017-09-01T13:49:15.076Z'
+datePublished: '2017-09-01T13:49:15.603Z'
 title: social media mix..
 author: []
 publisher: {}
