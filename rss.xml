@@ -4,9 +4,9 @@
         <description><![CDATA[social media]]></description>
         <link>http://social.abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Aug 2017 20:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2017 13:28:16 GMT</lastBuildDate>
         <atom:link href="http://social.abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 31 Aug 2017 20:39:19 GMT</pubDate>
+        <pubDate>Fri, 01 Sep 2017 13:28:12 GMT</pubDate>
         <item>
             <title><![CDATA[social media mix..]]></title>
             <description><![CDATA[<h1>social media mix..</h1>,<p>So with the world we live in, we bet you have the following accounts :</p>,<ul><li>twitter</li><li>facebook</li><li>instagram</li></ul>,<p>..and thats just for the average user. For sites promoting a brand, there’ll be youtube, specific facebook pages, pinterest, slack and who knows what other social identities out there.</p>,<p>We’re going to want to integrate them too into our grid site too, so following are various ways and means to get your social presence added to the grid.</p>,<p>..and in the meantime.. we need to go photo our pasta dish.. </p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77393282-a164-4e72-a9be-4073653d749f.jpg">]]></description>
@@ -49,6 +49,13 @@
             <link>http://social.abc-xyz.us/like-facebook/index.html</link>
             <guid isPermaLink="false">cb07f01b-d137-45ee-9dde-379c73c13f0e</guid>
             <pubDate>Thu, 31 Aug 2017 14:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[instagram..]]></title>
+            <description><![CDATA[<h1>instagram..</h1>,<p>There are literally hundreds of ways that you can add your latest instagram photos to your grid site, but one of the easiest - and nicest - is from a site called <a href="http://www.intush.com/" title="">Intush</a>.</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9UD1vwjAQ_SuRh2whoaWUJJgu0AqBqiLK0gU59iW51rGD7QDpr68JUm846d5J72uOpWENBNZwSuK4s2DsCJV1na1HXDdxHVmJAkz8wrW0dBIa3SlBnekg5Gi4BFoyaSFsUd3RG8cRBX1Mk2Tq12xAlFehyASMeGj9NxqH9h_3h2PVgLm-BdqggtDRdJhiyd_5l_gUk1O93l1eT6mI0uVxtVv2m-7BtOPz7xqj8i05tk9W7vbP34fD3sGH3F73VVSvDsU2LSHZJM2KBExKfXGGKdsyA4r3lNxMk2CoodDGR6UkIYHlRkuJqqJEaRIE3piPSgTaVrI-K6TmP_kFhauz6Sxpr3kNWNUuG6e3406UKa0g12cwpVfNzmixkJCTYDGP770v_gA2z4WW" height="244"></iframe>,<p>They have many different layouts, but the one above is just nice and simple.</p>,<p>The code from Intush to embed was :</p>,<pre><code>&lt;iframe src=&quot;//users.instush.com/h-slider/?cols=4&amp;round=true&amp;circle=false&amp;pin=true&amp;user_id=390063908&amp;username=iade.c&amp;sid=-1&amp;susername=-1&amp;tag=-1&amp;stype=mine&amp;t=999999bDcNcZdTd4qhIQwFq9d-9D_EQDyKu2rp1vzIi-fG0_p5slQS7jUUStePlLxSg-hEUbL9fe0K0mE&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;  style=&quot;display:block;width:680px;height:190px;border:none;overflow:visible;&quot; &gt;&lt;/iframe&gt;</code></pre>,<p>They set the width at 680px and height at 190px.. We’re going to remove that part, and just make the width:100% ..that way it will work on the Homepage, it’s own page, and a mobile phone if your visitor happens to be using one.. new code :</p>,<pre><code>&lt;iframe src=&quot;//users.instush.com/h-slider/?cols=4&amp;round=true&amp;circle=false&amp;pin=true&amp;user_id=390063908&amp;username=iade.c&amp;sid=-1&amp;susername=-1&amp;tag=-1&amp;stype=mine&amp;t=999999bDcNcZdTd4qhIQwFq9d-9D_EQDyKu2rp1vzIi-fG0_p5slQS7jUUStePlLxSg-hEUbL9fe0K0mE&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;  style=&quot;display:block;width:100%;border:none;overflow:visible;&quot; &gt;&lt;/iframe&gt;</code></pre>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9UEtvwjAM_itVpPVWGjb2aEvYBTYh0DTEuOyC0sSl2dKkxCms-_ULRZoPlvxZ9veYqsrxBiJ0gpE07RAcjpRB32E9ErZJ6wS1kuDSZ2E1sknsbGck866DWCgnNLCKa4S4VeaKXn7slWR3GaUPoT0NiAksTHEJIxFj2CbjGP_xMHh-GDDft8AaZSD2LBuqnIs38Sk_5ORYLzfnl2Mmk2y-X2zm_aq7de349LtUSfVK9-096s328Wu323p41-uf7SGpF7tynVVAV7RZkIhrbc_ecYMtd2BEz8hFNImGGErrglVGKIlQOKu1MgdGjCVRFIQFq0QqbDXv81Jb8V2clfR1Pqb0prie5sYaKOwJXBV48pNCVWooSDSbptekZ38AX4BW" height="244"></iframe>]]></description>
+            <link>http://social.abc-xyz.us/instagram/index.html</link>
+            <guid isPermaLink="false">adc9308a-0fbb-4f3d-90cc-bf20973d3a94</guid>
+            <pubDate>Fri, 01 Sep 2017 13:28:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
