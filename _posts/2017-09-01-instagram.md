@@ -4,8 +4,8 @@ description: >-
   There are literally hundreds of ways that you can add your latest instagram
   photos to your grid site, but one of the easiest - and nicest - is from a site
   called Intush.
-dateModified: '2017-09-01T13:29:53.214Z'
-datePublished: '2017-09-01T13:29:53.806Z'
+dateModified: '2017-09-01T13:29:59.858Z'
+datePublished: '2017-09-01T13:30:00.797Z'
 title: instagram..
 author: []
 publisher: {}
