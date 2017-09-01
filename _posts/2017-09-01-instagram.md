@@ -4,16 +4,16 @@ description: >-
   There are literally hundreds of ways that you can add your latest instagram
   photos to your grid site, but one of the easiest - and nicest - is from a site
   called Intush.
-dateModified: '2017-09-01T13:28:11.193Z'
-datePublished: '2017-09-01T13:28:11.910Z'
+dateModified: '2017-09-01T13:29:53.214Z'
+datePublished: '2017-09-01T13:29:53.806Z'
 title: instagram..
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-09-01-instagram.md
 starred: false
 datePublishedOriginal: '2017-09-01T13:28:11.910Z'
-sourcePath: _posts/2017-09-01-instagram.md
 url: instagram/index.html
 _type: Article
 
@@ -34,7 +34,7 @@ They set the width at 680px and height at 190px.. We're going to remove that par
 
     <iframe src="//users.instush.com/h-slider/?cols=4&round=true&circle=false&pin=true&user_id=390063908&username=iade.c&sid=-1&susername=-1&tag=-1&stype=mine&t=999999bDcNcZdTd4qhIQwFq9d-9D_EQDyKu2rp1vzIi-fG0_p5slQS7jUUStePlLxSg-hEUbL9fe0K0mE" allowtransparency="true" frameborder="0" scrolling="no"  style="display:block;width:100%;border:none;overflow:visible;" ></iframe>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9UEtvwjAM_itVpPVWGjb2aEvYBTYh0DTEuOyC0sSl2dKkxCms-_ULRZoPlvxZ9veYqsrxBiJ0gpE07RAcjpRB32E9ErZJ6wS1kuDSZ2E1sknsbGck866DWCgnNLCKa4S4VeaKXn7slWR3GaUPoT0NiAksTHEJIxFj2CbjGP_xMHh-GDDft8AaZSD2LBuqnIs38Sk_5ORYLzfnl2Mmk2y-X2zm_aq7de349LtUSfVK9-096s328Wu323p41-uf7SGpF7tynVVAV7RZkIhrbc_ecYMtd2BEz8hFNImGGErrglVGKIlQOKu1MgdGjCVRFIQFq0QqbDXv81Jb8V2clfR1Pqb0prie5sYaKOwJXBV48pNCVWooSDSbptekZ38AX4BW" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9UMtuwjAQ_BXLUnMLMS19JMH0Aq0QqCqiXHpBjr1J3Dp2sB1o-vU1idQ9rHZnpZmdmcvSsgaQs5ziJOkcWDeR2vnO1RNumqSOnZICbPLMjXJ0FlnTaUG97SDi0nIFtGTKQdRKPaJXjqMU9C4l5CG0pwHRQYVKJmDCIxeu8TRy_3hYPKsGzPct0EZqiDxNhyqW_I1_ig8xO9Xr3eXllIo4XR5Xu2W_6W5tOz3_rmVcvpJje-_Ubv_4dTjsPbyr7c--iuvVodimJZANaVYYMaXMxVumXcssaN5TfH0aoyGGwthglWKCkePWKCV1RbE2GKHwWLCKhXStYn1WKMO_84sUvs6mhNzkNciq9uM80mTaaMjNGWwZNLOzdLJQkGO0mCdj6os_AHOD-g" height="244" style=""></iframe>
 
 
 
