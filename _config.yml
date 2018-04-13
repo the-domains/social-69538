@@ -48,8 +48,8 @@ title: social media
 description: '"but first... let me take a selfie.."'
 purpose:
   - type: external
-    url: 'https://abc-xyz.us'
-    label: abc.. to xyz
+    url: 'http://thegrid.ai/abcxyz'
+    label: abc.. xyz
 url: 'http://thegrid.ai/abcsocial'
 github: true
 favicon: >-
