@@ -18,7 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: abc.. to xyz
+name: social media
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -50,7 +50,7 @@ purpose:
   - type: external
     url: 'https://abc-xyz.us'
     label: abc.. to xyz
-url: 'https://social.abc-xyz.us/'
+url: 'http://thegrid.ai/abcsocial'
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c87c3d0b-dc93-470a-9baf-dca2bbd12fe7.png
